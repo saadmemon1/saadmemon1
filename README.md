@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 💫 About Me:
-A CS student by day, freelancer by night!<br><br>🎓 I’m currently pursuing my Bachelor's degree in Computer Science at IBA Karachi<br>🌱 I’m very excited to learn more on topics such as cybersecurity, AI and its applications<br>
+A CS student by day, freelancer by night!<br><br>🎓 I’m currently pursuing my Bachelor's degree in Computer Science at IBA Karachi<br>🌱 I’m very excited to learn more on topics such as product management, cybersecurity, AI and its applications<br>
 
 
 ### 🌐 Socials:
